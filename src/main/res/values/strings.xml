@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EarlyDays</string>
+    <string name="buttonDescription">Tap to add \"event\"</string>
+    <string name="inputlayouthint">name</string>
+    <string name="buttonDescription2">Add Event</string>
+    <string name="forscreenreader">enter the name of your event</string>
+    <string name="Event_name">Event Name</string>
+</resources>
