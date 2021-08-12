@@ -20,10 +20,6 @@ class MainActivity : AppCompatActivity() {
                 .setView(dialog_box)
                 .setTitle("Event details")
             dialog_builder.show()
-
-            dialog_button.setOnClickListener{
-                dialog_box
-            }
         }
     }
 }
